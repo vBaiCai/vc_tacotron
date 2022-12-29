@@ -35,3 +35,13 @@ clb -> dbl
 
 * [keithito's tacotron implementation](https://github.com/keithito/tacotron)
 * [cmu_arctic dataset](http://festvox.org/cmu_arctic/)
+
+
+negar hehdari 
+sho
+
+
+
+1- 
+
+sha1_base64="eFc/CcufjQXkIIgegQKZWdirbK0=">AAAB8nicbVBNS8NAFHypX7V+VT16WSyCp5KIoMeCF49VbC2koWy2m3bpJht2X4QS+jO8eFDEq7/Gm//GTZuDtg4sDDPvsfMmTKUw6LrfTmVtfWNzq7pd29nd2z+oHx51jco04x2mpNK9kBouRcI7KFDyXqo5jUPJH8PJTeE/PnFthEoecJryIKajRESCUbSS348pjhmVeW82qDfcpjsHWSVeSRpQoj2of/WHimUxT5BJaozvuSkGOdUomOSzWj8zPKVsQkfctzShMTdBPo88I2dWGZJIafsSJHP190ZOY2OmcWgni4hm2SvE/zw/w+g6yEWSZsgTtvgoyiRBRYr7yVBozlBOLaFMC5uVsDHVlKFtqWZL8JZPXiXdi6bnNr27y0brvqyjCidwCufgwRW04Bba0AEGCp7hFd4cdF6cd+djMVpxyp1j+APn8weYEZF+</latexit><latexit sha1_base64="eFc/CcufjQXkIIgegQKZWdirbK0 =">AAAB8nicbVBNS8NAFHypX7V+VT16WSyCp5KIoMeCF49VbC2koWy2m3bpJht2X4QS+jO8eFDEq7/Gm/
